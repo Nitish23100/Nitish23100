@@ -1,18 +1,243 @@
-# 💫 About Me:
-👋 Hi, I'm Nitish Dubey<br><br>🎓 B.Tech CSE Student at IIIT Naya Raipur (CGPA: 8.19)<br><br>💻 SWE Intern at Venture Launcher, building scalable real-time systems with Node.js, Redis, Socket.IO, and BullMQ.<br><br>🔬 IEEE-published researcher in Memory Forensics. Developed MemScan, a malware detection framework using Volatility 3 and YARA for advanced fileless threat analysis.<br><br>🤖 Interested in Web Development , AI Engineering, Agentic AI, RAG Systems and Distributed Systems.<br><br>🏆 Highlights:<br>- IEEE Research Publication<br>- Google Big Code Round 2 Qualifier (Top 1500)<br>- Algo University Round 2 Qualifier (Top 2000)<br>- Runner-up, E-Cell Hackathon<br><br>📫 Reach me: rishukanha.spr@gmail.com<br><br>⚡ Fun fact <br>  - I built an IEEE-published malware detection framework that can identify fileless malware directly from memory dumps.<br><br>🌱 I’m currently learning<br><br>  - System Design<br>  - Distributed Systems<br>  - Agentic AI<br>  - Cloud Engineering (AWS)<br>  - Advanced Backend Development
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=200&section=header&text=Nitish%20Dubey&fontSize=52&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Systems%20Researcher%20%E2%80%A2%20Builder&descAlignY=58&descSize=16&descColor=a8dadc" width="100%" alt="Header"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nitishdubey.141) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nitishdubey26) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/NitishDubey8498) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Nitish Dubey) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishukanha.spr@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Nitish23100&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Nitish23100&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nitish23100&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitishdubey26)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rishukanha.spr@gmail.com)
+[![X](https://img.shields.io/badge/X%20%2F%20Twitter-111111?style=flat-square&logo=x&logoColor=white)](https://x.com/NitishDubey8498)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/nitishdubey.141)
+&nbsp;&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=Nitish23100&style=flat-square&color=0f3460&label=Profile+Views)
+
+<br/>
+
+*B.Tech CSE · IIIT Naya Raipur · CGPA 8.19 · SWE Intern @ Venture Launcher*
+
+</div>
+
+<br/>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Nitish23100&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I'm a **Computer Science student** and **SWE Intern at Venture Launcher**, where I architect scalable real-time backend systems using Node.js, Redis, Socket.IO, and BullMQ. I'm also an **IEEE-published researcher** in memory forensics — I built *MemScan*, a framework that detects fileless malware by scanning raw process memory, with no disk artifacts needed.
+
+My technical interests sit at the intersection of **systems engineering**, **AI**, and **security** — building things that are fast, resilient, and hard to break. I'm currently deepening my expertise in **distributed systems**, **agentic AI**, and **cloud infrastructure on AWS**.
+
+```text
+📍 IIIT Naya Raipur, India         🔬 Research: Memory Forensics & Threat Detection
+🎯 Open to: Internships & Collab   ⚡ I built a malware scanner that sees what filesystems can't
+```
+
+---
+
+## 🚀 What I'm Currently Building
+
+### [Venture Launcher](https://github.com/Nitish23100) — Startup Ecosystem Platform
+> A matchmaking platform connecting **founders, investors, and manufacturers** — with real-time communication, async job processing, and community features built for scale.
+
+`Node.js` &nbsp;`Redis` &nbsp;`Socket.IO` &nbsp;`BullMQ` &nbsp;`Next.js` &nbsp;`TypeScript` &nbsp;`PostgreSQL` &nbsp;`Prisma` &nbsp;`AWS EC2`
+
+---
+
+## 📌 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ MemScan
+**IEEE Published · Memory Forensics · Cybersecurity**
+
+A fileless malware detection framework that identifies threats — process injection, reflective DLL loading, code-cave attacks — directly from **raw memory dumps**. Zero filesystem dependency. Built on Volatility 3 and YARA.
+
+- 🔍 No disk footprint required
+- 🧬 Targets the most evasion-resistant attacks
+- 📄 Peer-reviewed and IEEE published
+
+[![IEEE Paper](https://img.shields.io/badge/IEEE-Published-blue?style=flat-square&logo=ieee&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nitish23100)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Venture Launcher
+**Full-Stack · Real-Time · Production Platform**
+
+Startup ecosystem platform with real-time messaging, async queue processing, and a community matchmaking engine — serving founders, investors, and manufacturers.
+
+- ⚡ BullMQ + Redis for async job queues
+- 🔌 Socket.IO for real-time collaboration
+- ☁️ Deployed on AWS (EC2 + Next.js frontend)
+
+[![Platform](https://img.shields.io/badge/Platform-Live-orange?style=flat-square)](#)
+[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nitish23100)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<details>
+<summary><b>⬡ Languages</b></summary>
+<br/>
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>⬡ Frontend</b></summary>
+<br/>
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>⬡ Backend & Infrastructure</b></summary>
+<br/>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-FF4B4B?style=flat-square)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>⬡ Databases & ORM</b></summary>
+<br/>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase)
+
+</details>
+
+<details>
+<summary><b>⬡ Cloud & DevOps</b></summary>
+<br/>
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>⬡ AI / ML & Research Tools</b></summary>
+<br/>
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![YARA](https://img.shields.io/badge/YARA-Malware_Analysis-critical?style=flat-square)
+![Volatility 3](https://img.shields.io/badge/Volatility_3-Memory_Forensics-informational?style=flat-square)
+
+</details>
+
+<details>
+<summary><b>⬡ Tools & Design</b></summary>
+<br/>
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
+
+</details>
+
+---
+
+## 🏆 Achievements
+
+| | Achievement | Details |
+|:---:|-------------|---------|
+| 📄 | **IEEE Publication** | Fileless malware detection via memory forensics — peer-reviewed & published |
+| 🥇 | **Google Big Code** | Round 2 Qualifier · Top 1,500 globally |
+| 🥇 | **Algo University** | Round 2 Qualifier · Top 2,000 globally |
+| 🥈 | **E-Cell Hackathon** | Runner-up |
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.shion.dev/api?username=Nitish23100&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub Stats"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Nitish23100&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
+
+<br/>
+
+<img width="68%" src="https://streak-stats.demolab.com/?user=Nitish23100&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🌱 Currently Exploring
+
+```text
+System Design  ·  Distributed Systems  ·  Agentic AI & RAG  ·  AWS Cloud Engineering  ·  Advanced Backend Architecture
+```
+
+---
+
+## 📬 Let's Connect
+
+Whether it's a **research collaboration**, **open-source project**, or an **internship opportunity** in backend systems, AI engineering, or distributed systems — my inbox is open.
+
+<a href="https://linkedin.com/in/nitishdubey26">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:rishukanha.spr@gmail.com">
+  <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=footer" width="100%" alt="Footer"/>
+
+*"The best systems are the ones that handle failures you didn't anticipate."*
+
+</div>
