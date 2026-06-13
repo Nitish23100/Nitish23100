@@ -1,47 +1,46 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=200&section=header&text=Nitish%20Dubey&fontSize=52&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Systems%20Researcher%20%E2%80%A2%20Builder&descAlignY=58&descSize=16&descColor=a8dadc" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:1a0000,65:0d0000,100:000000&height=220&section=header&text=Nitish%20Dubey&fontSize=52&fontColor=cc0000&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Systems%20Researcher%20%E2%80%A2%20Builder&descAlignY=58&descSize=16&descColor=888888" width="100%" alt="Header"/>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitishdubey26)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rishukanha.spr@gmail.com)
-[![X](https://img.shields.io/badge/X%20%2F%20Twitter-111111?style=flat-square&logo=x&logoColor=white)](https://x.com/NitishDubey8498)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/nitishdubey.141)
-&nbsp;&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=Nitish23100&style=flat-square&color=0f3460&label=Profile+Views)
+[![Email](https://img.shields.io/badge/Email-cc0000?style=flat-square&logo=gmail&logoColor=white)](mailto:rishukanha.spr@gmail.com)
+[![X](https://img.shields.io/badge/X-111111?style=flat-square&logo=x&logoColor=cc0000)](https://x.com/NitishDubey8498)
+[![Instagram](https://img.shields.io/badge/Instagram-cc0000?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/nitishdubey.141)
+[![Mastodon](https://img.shields.io/badge/Mastodon-191919?style=flat-square&logo=mastodon&logoColor=cc0000)](https://mastodon.social/@NitishDubey)
+&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=Nitish23100&style=flat-square&color=cc0000&label=Profile+Views)
 
 <br/>
 
-*B.Tech CSE · IIIT Naya Raipur · CGPA 8.19 · SWE Intern @ Venture Launcher*
+*B.Tech CSE &nbsp;·&nbsp; IIIT Naya Raipur &nbsp;·&nbsp; CGPA 8.19 &nbsp;·&nbsp; SWE Intern @ Venture Launcher*
 
 </div>
 
-<br/>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:cc0000,100:000000&height=2" width="100%"/>
 
 ## 👨‍💻 About Me
 
 I'm a **Computer Science student** and **SWE Intern at Venture Launcher**, where I architect scalable real-time backend systems using Node.js, Redis, Socket.IO, and BullMQ. I'm also an **IEEE-published researcher** in memory forensics — I built *MemScan*, a framework that detects fileless malware by scanning raw process memory, with no disk artifacts needed.
 
-My technical interests sit at the intersection of **systems engineering**, **AI**, and **security** — building things that are fast, resilient, and hard to break. I'm currently deepening my expertise in **distributed systems**, **agentic AI**, and **cloud infrastructure on AWS**.
+My interests sit at the intersection of **systems engineering**, **AI**, and **security** — building things that are fast, resilient, and hard to break. Currently deepening my expertise in **distributed systems**, **agentic AI**, and **cloud infrastructure on AWS**.
 
 ```text
 📍 IIIT Naya Raipur, India         🔬 Research: Memory Forensics & Threat Detection
-🎯 Open to: Internships & Collab   ⚡ I built a malware scanner that sees what filesystems can't
+🎯 Open to: Internships & Collab   ⚡ I detect threats that leave no trace on disk
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:cc0000,100:000000&height=2" width="100%"/>
 
 ## 🚀 What I'm Currently Building
 
-### [Venture Launcher](https://github.com/Nitish23100) — Startup Ecosystem Platform
+### [Venture Launcher](#) — Startup Ecosystem Platform
 > A matchmaking platform connecting **founders, investors, and manufacturers** — with real-time communication, async job processing, and community features built for scale.
 
 `Node.js` &nbsp;`Redis` &nbsp;`Socket.IO` &nbsp;`BullMQ` &nbsp;`Next.js` &nbsp;`TypeScript` &nbsp;`PostgreSQL` &nbsp;`Prisma` &nbsp;`AWS EC2`
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:cc0000,100:000000&height=2" width="100%"/>
 
 ## 📌 Featured Projects
 
@@ -55,11 +54,11 @@ My technical interests sit at the intersection of **systems engineering**, **AI*
 A fileless malware detection framework that identifies threats — process injection, reflective DLL loading, code-cave attacks — directly from **raw memory dumps**. Zero filesystem dependency. Built on Volatility 3 and YARA.
 
 - 🔍 No disk footprint required
-- 🧬 Targets the most evasion-resistant attacks
+- 🧬 Targets evasion-resistant attacks
 - 📄 Peer-reviewed and IEEE published
 
-[![IEEE Paper](https://img.shields.io/badge/IEEE-Published-blue?style=flat-square&logo=ieee&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nitish23100)
+[![IEEE Paper](https://img.shields.io/badge/IEEE-Published-cc0000?style=flat-square&logo=ieee&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/View_Repo-0d0d0d?style=flat-square&logo=github&logoColor=cc0000)](https://github.com/Nitish23100)
 
 </td>
 <td width="50%" valign="top">
@@ -73,19 +72,19 @@ Startup ecosystem platform with real-time messaging, async queue processing, and
 - 🔌 Socket.IO for real-time collaboration
 - ☁️ Deployed on AWS (EC2 + Next.js frontend)
 
-[![Platform](https://img.shields.io/badge/Platform-Live-orange?style=flat-square)](#)
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nitish23100)
+[![Platform](https://img.shields.io/badge/Platform-Live-cc0000?style=flat-square)](#)
+[![GitHub](https://img.shields.io/badge/View_Repo-0d0d0d?style=flat-square&logo=github&logoColor=cc0000)](https://github.com/Nitish23100)
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:cc0000,100:000000&height=2" width="100%"/>
 
 ## 🛠️ Tech Stack
 
 <details>
-<summary><b>⬡ Languages</b></summary>
+<summary><b>◈ Languages</b></summary>
 <br/>
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -97,7 +96,7 @@ Startup ecosystem platform with real-time messaging, async queue processing, and
 </details>
 
 <details>
-<summary><b>⬡ Frontend</b></summary>
+<summary><b>◈ Frontend</b></summary>
 <br/>
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -111,7 +110,7 @@ Startup ecosystem platform with real-time messaging, async queue processing, and
 </details>
 
 <details>
-<summary><b>⬡ Backend & Infrastructure</b></summary>
+<summary><b>◈ Backend & Infrastructure</b></summary>
 <br/>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -120,14 +119,14 @@ Startup ecosystem platform with real-time messaging, async queue processing, and
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-FF4B4B?style=flat-square)
+![BullMQ](https://img.shields.io/badge/BullMQ-cc0000?style=flat-square)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 </details>
 
 <details>
-<summary><b>⬡ Databases & ORM</b></summary>
+<summary><b>◈ Databases & ORM</b></summary>
 <br/>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
@@ -141,7 +140,7 @@ Startup ecosystem platform with real-time messaging, async queue processing, and
 </details>
 
 <details>
-<summary><b>⬡ Cloud & DevOps</b></summary>
+<summary><b>◈ Cloud & DevOps</b></summary>
 <br/>
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -156,7 +155,7 @@ Startup ecosystem platform with real-time messaging, async queue processing, and
 </details>
 
 <details>
-<summary><b>⬡ AI / ML & Research Tools</b></summary>
+<summary><b>◈ AI / ML & Research Tools</b></summary>
 <br/>
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -164,13 +163,13 @@ Startup ecosystem platform with real-time messaging, async queue processing, and
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![YARA](https://img.shields.io/badge/YARA-Malware_Analysis-critical?style=flat-square)
-![Volatility 3](https://img.shields.io/badge/Volatility_3-Memory_Forensics-informational?style=flat-square)
+![YARA](https://img.shields.io/badge/YARA-Malware_Analysis-cc0000?style=flat-square)
+![Volatility 3](https://img.shields.io/badge/Volatility_3-Memory_Forensics-cc0000?style=flat-square)
 
 </details>
 
 <details>
-<summary><b>⬡ Tools & Design</b></summary>
+<summary><b>◈ Tools & Design</b></summary>
 <br/>
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
@@ -183,34 +182,32 @@ Startup ecosystem platform with real-time messaging, async queue processing, and
 
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:cc0000,100:000000&height=2" width="100%"/>
 
 ## 🏆 Achievements
 
-| | Achievement | Details |
+| &nbsp; | Achievement | Details |
 |:---:|-------------|---------|
 | 📄 | **IEEE Publication** | Fileless malware detection via memory forensics — peer-reviewed & published |
 | 🥇 | **Google Big Code** | Round 2 Qualifier · Top 1,500 globally |
 | 🥇 | **Algo University** | Round 2 Qualifier · Top 2,000 globally |
 | 🥈 | **E-Cell Hackathon** | Runner-up |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:cc0000,100:000000&height=2" width="100%"/>
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.shion.dev/api?username=Nitish23100&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub Stats"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Nitish23100&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Nitish23100&bg_color=0d0d0d&title_color=cc0000&text_color=ffffff&icon_color=cc0000&border_color=330000&hide_border=false&include_all_commits=true&count_private=false&show_icons=true)
 
-<br/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Nitish23100&background=0d0d0d&ring=cc0000&fire=cc0000&currStreakLabel=cc0000&sideLabels=cc0000&sideNums=ffffff&currStreakNum=ffffff&border=330000&stroke=0d0d0d&dates=888888&hide_border=false)
 
-<img width="68%" src="https://streak-stats.demolab.com/?user=Nitish23100&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Nitish23100&bg_color=0d0d0d&title_color=cc0000&text_color=ffffff&border_color=330000&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:cc0000,100:000000&height=2" width="100%"/>
 
 ## 🌱 Currently Exploring
 
@@ -218,7 +215,7 @@ Startup ecosystem platform with real-time messaging, async queue processing, and
 System Design  ·  Distributed Systems  ·  Agentic AI & RAG  ·  AWS Cloud Engineering  ·  Advanced Backend Architecture
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:cc0000,100:000000&height=2" width="100%"/>
 
 ## 📬 Let's Connect
 
@@ -229,14 +226,14 @@ Whether it's a **research collaboration**, **open-source project**, or an **inte
 </a>
 &nbsp;&nbsp;
 <a href="mailto:rishukanha.spr@gmail.com">
-  <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Send_an_Email-cc0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
----
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=footer" width="100%" alt="Footer"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:1a0000,65:0d0000,100:000000&height=130&section=footer" width="100%" alt="Footer"/>
 
 *"The best systems are the ones that handle failures you didn't anticipate."*
 
