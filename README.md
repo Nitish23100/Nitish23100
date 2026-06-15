@@ -4,6 +4,10 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-cc0000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-puce-omega-ekkpijxc6s.vercel.app/)
+
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitishdubey26)
 [![Email](https://img.shields.io/badge/Email-cc0000?style=flat-square&logo=gmail&logoColor=white)](mailto:rishukanha.spr@gmail.com)
 [![X](https://img.shields.io/badge/X-111111?style=flat-square&logo=x&logoColor=cc0000)](https://x.com/NitishDubey8498)
