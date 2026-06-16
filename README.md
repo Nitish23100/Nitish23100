@@ -18,7 +18,7 @@
 
 <br/>
 
-*B.Tech CSE &nbsp;·&nbsp; IIIT Naya Raipur &nbsp;·&nbsp; CGPA 8.19 &nbsp;·&nbsp; SWE Intern @ Venture Launcher*
+*B.Tech CSE &nbsp;·&nbsp; IIIT Naya Raipur &nbsp;·&nbsp; CGPA 8.19 &nbsp;·&nbsp; SWE Intern @ Venture Launche*
 
 </div>
 
