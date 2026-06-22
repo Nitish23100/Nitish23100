@@ -4,6 +4,11 @@
 
 <br/>
 
+<!-- Animated typing tagline — real looping SVG, not a static image -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=CC0000&center=true&vCenter=true&width=600&lines=Systems+Engineer;Memory+Forensics+Researcher;IEEE+Published+Author;Backend+%26+Distributed+Systems+Builder" alt="Typing SVG" />
+
+<br/>
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-cc0000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-puce-omega-ekkpijxc6s.vercel.app/)
 
 <br/>
@@ -22,9 +27,19 @@
 
 </div>
 
+<div align="center">
+<svg width="100%" height="28" viewBox="0 0 800 28" xmlns="http://www.w3.org/2000/svg">
+  <path d="M120 14 C 160 4, 200 24, 240 14 C 280 4, 320 24, 360 14" stroke="#cc0000" stroke-width="1.5" fill="none" opacity="0.6"/>
+  <g fill="#0d0d0d" stroke="#cc0000" stroke-width="1">
+    <path d="M400 8 q -6 -4 -10 0 q -2 4 4 6 l 3 3 l 3 -3 q 6 -2 4 -6 q -4 -4 -10 0 z"/>
+  </g>
+  <path d="M440 14 C 480 4, 520 24, 560 14 C 600 4, 640 24, 680 14" stroke="#cc0000" stroke-width="1.5" fill="none" opacity="0.6"/>
+</svg>
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:cc0000,100:000000&height=2" width="100%"/>
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a **Computer Science student** and **SWE Intern at Venture Launcher**, where I architect scalable real-time backend systems using Node.js, Redis, Socket.IO, and BullMQ. I'm also an **IEEE-published researcher** in memory forensics — I built *MemScan*, a framework that detects fileless malware by scanning raw process memory, with no disk artifacts needed.
 
@@ -37,7 +52,7 @@ My interests sit at the intersection of **systems engineering**, **AI**, and **s
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:cc0000,100:000000&height=2" width="100%"/>
 
-## 🚀 What I'm Currently Building
+## What I'm Currently Building
 
 ### [Venture Launcher](#) — Startup Ecosystem Platform
 > A matchmaking platform connecting **founders, investors, and manufacturers** — with real-time communication, async job processing, and community features built for scale.
@@ -46,20 +61,20 @@ My interests sit at the intersection of **systems engineering**, **AI**, and **s
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:cc0000,100:000000&height=2" width="100%"/>
 
-## 📌 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ MemScan
+### MemScan
 **IEEE Published · Memory Forensics · Cybersecurity**
 
 A fileless malware detection framework that identifies threats — process injection, reflective DLL loading, code-cave attacks — directly from **raw memory dumps**. Zero filesystem dependency. Built on Volatility 3 and YARA.
 
-- 🔍 No disk footprint required
-- 🧬 Targets evasion-resistant attacks
-- 📄 Peer-reviewed and IEEE published
+- No disk footprint required
+- Targets evasion-resistant attacks
+- Peer-reviewed and IEEE published
 
 [![IEEE Paper](https://img.shields.io/badge/IEEE-Published-cc0000?style=flat-square&logo=ieee&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/View_Repo-0d0d0d?style=flat-square&logo=github&logoColor=cc0000)](https://github.com/Nitish23100)
@@ -67,14 +82,14 @@ A fileless malware detection framework that identifies threats — process injec
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Venture Launcher
+### Venture Launcher
 **Full-Stack · Real-Time · Production Platform**
 
 Startup ecosystem platform with real-time messaging, async queue processing, and a community matchmaking engine — serving founders, investors, and manufacturers.
 
-- ⚡ BullMQ + Redis for async job queues
-- 🔌 Socket.IO for real-time collaboration
-- ☁️ Deployed on AWS (EC2 + Next.js frontend)
+- BullMQ + Redis for async job queues
+- Socket.IO for real-time collaboration
+- Deployed on AWS (EC2 + Next.js frontend)
 
 [![Platform](https://img.shields.io/badge/Platform-Live-cc0000?style=flat-square)](#)
 [![GitHub](https://img.shields.io/badge/View_Repo-0d0d0d?style=flat-square&logo=github&logoColor=cc0000)](https://github.com/Nitish23100)
@@ -85,7 +100,7 @@ Startup ecosystem platform with real-time messaging, async queue processing, and
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:cc0000,100:000000&height=2" width="100%"/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <details>
 <summary><b>◈ Languages</b></summary>
@@ -188,7 +203,7 @@ Startup ecosystem platform with real-time messaging, async queue processing, and
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:cc0000,100:000000&height=2" width="100%"/>
 
-## 🏆 Achievements
+## Achievements
 
 | &nbsp; | Achievement | Details |
 |:---:|-------------|---------|
@@ -199,21 +214,35 @@ Startup ecosystem platform with real-time messaging, async queue processing, and
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:cc0000,100:000000&height=2" width="100%"/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Nitish23100&bg_color=0d0d0d&title_color=cc0000&text_color=ffffff&icon_color=cc0000&border_color=330000&hide_border=false&include_all_commits=true&count_private=false&show_icons=true)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Nitish23100&bg_color=000000&title_color=cc0000&text_color=ffffff&icon_color=cc0000&border_color=cc0000&hide_border=false&include_all_commits=true&count_private=false&show_icons=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Nitish23100&background=0d0d0d&ring=cc0000&fire=cc0000&currStreakLabel=cc0000&sideLabels=cc0000&sideNums=ffffff&currStreakNum=ffffff&border=330000&stroke=0d0d0d&dates=888888&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Nitish23100&background=000000&ring=cc0000&fire=cc0000&currStreakLabel=cc0000&sideLabels=cc0000&sideNums=ffffff&currStreakNum=ffffff&border=cc0000&stroke=000000&dates=888888&hide_border=false)
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Nitish23100&bg_color=0d0d0d&title_color=cc0000&text_color=ffffff&border_color=330000&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Nitish23100&bg_color=000000&title_color=cc0000&text_color=ffffff&border_color=cc0000&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
 
+<!--
+ANIMATED CONTRIBUTION SNAKE (requires one-time setup — see note below)
+Uncomment after enabling the GitHub Action in this repo.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Nitish23100/Nitish23100/output/snake-dark.svg" alt="Contribution Snake" />
+</div>
+-->
+
+> **Setup note for the snake graph above:** this isn't a markdown trick — it's a scheduled GitHub Action that draws your contribution graph being "eaten," then commits the resulting SVG to an `output` branch. One-time steps:
+> 1. In `Nitish23100/Nitish23100`, add `.github/workflows/snake.yml` with the [Platane/snk action](https://github.com/Platane/snk).
+> 2. Set the output theme colors to black/red (`#000000` background, `#cc0000` dots) in the workflow's `outputs` config.
+> 3. Once the Action runs once, uncomment the `<img>` block above pointing at the `output` branch.
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:cc0000,100:000000&height=2" width="100%"/>
 
-## 🌱 Currently Exploring
+## Currently Exploring
 
 ```text
 System Design  ·  Distributed Systems  ·  Agentic AI & RAG  ·  AWS Cloud Engineering  ·  Advanced Backend Architecture
@@ -221,7 +250,7 @@ System Design  ·  Distributed Systems  ·  Agentic AI & RAG  ·  AWS Cloud Engi
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:cc0000,100:000000&height=2" width="100%"/>
 
-## 📬 Let's Connect
+## Let's Connect
 
 Whether it's a **research collaboration**, **open-source project**, or an **internship opportunity** in backend systems, AI engineering, or distributed systems — my inbox is open.
 
