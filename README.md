@@ -226,20 +226,6 @@ Startup ecosystem platform with real-time messaging, async queue processing, and
 
 </div>
 
-<!--
-ANIMATED CONTRIBUTION SNAKE (requires one-time setup — see note below)
-Uncomment after enabling the GitHub Action in this repo.
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Nitish23100/Nitish23100/output/snake-dark.svg" alt="Contribution Snake" />
-</div>
--->
-
-> **Setup note for the snake graph above:** this isn't a markdown trick — it's a scheduled GitHub Action that draws your contribution graph being "eaten," then commits the resulting SVG to an `output` branch. One-time steps:
-> 1. In `Nitish23100/Nitish23100`, add `.github/workflows/snake.yml` with the [Platane/snk action](https://github.com/Platane/snk).
-> 2. Set the output theme colors to black/red (`#000000` background, `#cc0000` dots) in the workflow's `outputs` config.
-> 3. Once the Action runs once, uncomment the `<img>` block above pointing at the `output` branch.
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:cc0000,100:000000&height=2" width="100%"/>
 
 ## Currently Exploring
